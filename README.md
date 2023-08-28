@@ -17,3 +17,10 @@ In DOS terminal, enter
 ```
 run
 ```
+
+### Examples
+I placed some Mn L2,3 test data in the .\test_Mn_spectra folder
+
+<p align="left"><img src="test_img/example1.png" width="600"\></p>
+
+See more examples at Scientific Reports, (2023) https://doi.org/10.1038/s41598-023-40616-5
