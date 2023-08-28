@@ -11,7 +11,7 @@ torchvision==0.12.0
 ```
 python .\MnPredictor\MnPredictorUI.py
 ```
-Note that you have to run the app in one directory higher than where the MnPredictoryUI.py is located.
+###Note that you have to run the app in one directory higher than where the MnPredictoryUI.py is located.
 
 In DOS terminal, enter
 ```
