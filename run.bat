@@ -1,0 +1,1 @@
+python .\MnPredictor\MnPredictorUI.py
